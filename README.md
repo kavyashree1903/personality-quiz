@@ -3,5 +3,9 @@ After making this app, I also got an overview of the built-in widgets and how yo
 This app uses:
 * [Dart](https://github.com/dart-lang)
 * [Flutter](https://github.com/flutter/flutter)
+
+
+
+
 ![Alt Text](https://media.giphy.com/media/h6YdEZWDGnWAGwLClU/giphy.gif)
 
